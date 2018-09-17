@@ -45,9 +45,9 @@ Wizard Wisdom is very similar to the game Asteroids in that the player is allowe
 My name is Alexander Stevens and I am a fourth year Game Design student at Rochester Institute of Technology. Over the years I have become proficient in Java, various C languages such as C# and C++, as well as applications such as Photoshop, Maya, Unity, and Unreal Engine. However, some of my preferred interests lie specifically in programming through Unity and making 3D models in Maya. The freedom that these two applications allow you, whether it be creating anything from my imagination or programming real-life physics, is what makes these activities some of my favorite to pursue.
 
 ## References
-..* https://en.wikipedia.org/wiki/Asteroids_(video_game)
-..* https://en.wikipedia.org/wiki/Jeopardy!
-..* https://www.w3schools.com/html/
-..* https://ubisafe.org/explore/keyboard-drawing-keypad/
-..* http://clipartmonk.com/mickey-mouse-clipart-ears
-..* https://risinghighacademy.com/0-how-to-get-game-ideas/
+https://en.wikipedia.org/wiki/Asteroids_(video_game)
+https://en.wikipedia.org/wiki/Jeopardy!
+https://www.w3schools.com/html/
+https://ubisafe.org/explore/keyboard-drawing-keypad/
+http://clipartmonk.com/mickey-mouse-clipart-ears
+https://risinghighacademy.com/0-how-to-get-game-ideas/
