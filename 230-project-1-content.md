@@ -35,8 +35,9 @@ In order to teach new players the game, there will be a portion of text in the c
 The player is going to need to learn a few things in order to beat the game. The first and most important is timing. Since the player can only attack when attack spells have been remembered, it will be important to time their attacks accordingly. For example, if an enemy is getting close to the research, it is important to be aware of that and remember an attack spell in advance. It is also important to be aware of enemies around the player to avoid being caught off guard, since it would take too much time to answer a question before taking a hit. Another important thing to learn is pacing. As time goes on, more and more enemies will spawn, so pacing oneself is key to beating the invading forces. Lastly, the player will need to learn that the goal isn't to survive the enemies, but to protect the research. Although movement is allowed for more engaging play, if an enemy touches the research, it is game over. So it is critical to keep the research location in mind and guard it as well as one can.
 
 ## Screenshots
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Game Screen](https://github.com/stevensalex29/IGME-230/blob/master/WizardWisdomPic1.png "Game Screen")
+![Start Screen](https://github.com/stevensalex29/IGME-230/blob/master/WizardWisdomPic2.png "Start Screen")
+![Pause Screen](https://github.com/stevensalex29/IGME-230/blob/master/WizardWisdomPic3.png "Pause Screen")
 
 ## Other
 Wizard Wisdom is very similar to the game Asteroids in that the player is allowed to move around the screen to attack enemies. However, enemies are moving towards the wizard's research, which is in the center of the screen. The game is also similar to the game Jeopardy in that the player must answer trivia to advance through the game. However, the trivia is multiple choice and not the primary focus of the game, although the game couldn't progress without it.
@@ -45,9 +46,10 @@ Wizard Wisdom is very similar to the game Asteroids in that the player is allowe
 My name is Alexander Stevens and I am a fourth year Game Design student at Rochester Institute of Technology. Over the years I have become proficient in Java, various C languages such as C# and C++, as well as applications such as Photoshop, Maya, Unity, and Unreal Engine. However, some of my preferred interests lie specifically in programming through Unity and making 3D models in Maya. The freedom that these two applications allow you, whether it be creating anything from my imagination or programming real-life physics, is what makes these activities some of my favorite to pursue.
 
 ## References
-https://en.wikipedia.org/wiki/Asteroids_(video_game)
-https://en.wikipedia.org/wiki/Jeopardy!
-https://www.w3schools.com/html/
-https://ubisafe.org/explore/keyboard-drawing-keypad/
-http://clipartmonk.com/mickey-mouse-clipart-ears
-https://risinghighacademy.com/0-how-to-get-game-ideas/
+[https://en.wikipedia.org/wiki/Asteroids_(video_game)](https://en.wikipedia.org/wiki/Asteroids_(video_game))
+[https://en.wikipedia.org/wiki/Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy!)
+[https://www.w3schools.com/html/](https://www.w3schools.com/html/)
+[https://ubisafe.org/explore/keyboard-drawing-keypad/](https://ubisafe.org/explore/keyboard-drawing-keypad/)
+[http://clipartmonk.com/mickey-mouse-clipart-ears](http://clipartmonk.com/mickey-mouse-clipart-ears)
+[https://risinghighacademy.com/0-how-to-get-game-ideas/](https://risinghighacademy.com/0-how-to-get-game-ideas/)
+
