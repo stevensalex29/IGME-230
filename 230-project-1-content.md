@@ -47,9 +47,14 @@ My name is Alexander Stevens and I am a fourth year Game Design student at Roche
 
 ## References
 [https://en.wikipedia.org/wiki/Asteroids_(video_game)](https://en.wikipedia.org/wiki/Asteroids_(video_game))
+
 [https://en.wikipedia.org/wiki/Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy!)
+
 [https://www.w3schools.com/html/](https://www.w3schools.com/html/)
+
 [https://ubisafe.org/explore/keyboard-drawing-keypad/](https://ubisafe.org/explore/keyboard-drawing-keypad/)
+
 [http://clipartmonk.com/mickey-mouse-clipart-ears](http://clipartmonk.com/mickey-mouse-clipart-ears)
+
 [https://risinghighacademy.com/0-how-to-get-game-ideas/](https://risinghighacademy.com/0-how-to-get-game-ideas/)
 
